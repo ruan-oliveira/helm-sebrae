@@ -1,0 +1,6 @@
+dependencies:
+- name: mariadb
+  repository: file://../common/mariadb/v7.3.14
+  version: 7.3.14
+digest: sha256:aae52ec37a0a32d7b152d0e37729f4b44ed70ec2cd830933581079cf31ebb3a1
+generated: "2021-11-16T11:33:07.293949-03:00"

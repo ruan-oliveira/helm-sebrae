@@ -77,3 +77,10 @@ nodeSelector: {}
 tolerations: []
 
 affinity: {}
+
+mariadb:
+  enabled: false
+  db:
+    user: "usr_ruan"
+    password: "password"
+    name: ruan
