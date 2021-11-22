@@ -1,0 +1,8 @@
+apiVersion: v2
+name: theia2
+description: Uma aplicação Theia - Turma Sebrae
+type: application
+version: 0.1.0
+appVersion: 1.0.0
+icon: file://theia.jpeg
+
